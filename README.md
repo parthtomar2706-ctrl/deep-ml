@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-18 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-17 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-18 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-11-18 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-17 | [solution](problems/0002-transpose-of-a-matrix) |
 
 ---

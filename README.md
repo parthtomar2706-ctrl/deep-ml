@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-18 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-26 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-18 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-11-28 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-18 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-27 | [solution](problems/0042-implement-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |
